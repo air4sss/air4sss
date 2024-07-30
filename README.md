@@ -37,4 +37,12 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+
+## 📂 My Projects
+
+<div align="center">
+    <a href="https://github.com/air4sss/wryd_movie/blob/main/README.md">
+        <img src="https://img.shields.io/badge/wryd_movie-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    </a>
+</div>
     

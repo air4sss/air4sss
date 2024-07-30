@@ -56,12 +56,11 @@
     </p>
 </div>
 
-## WRYD?
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> What is WRYD? </h2>
     <img src="https://github.com/air4sss/wryd_movie/blob/main/logo_rmbg.jpg" alt="WRYD Logo" />
     <p>
-        **WRYD**는 "What aRe You Doing?"의 약자로, 사용자에게 친근하게 다가가며 현재 하고 있는 일을 물어보는 의미를 담고 있습니다. 이를 통해 사용자가 원하는 정보를 제공하고, 더 나은 사용자 경험을 제공하고자 합니다.
+        "WRYD"는 "What aRe You Doing?"의 약자로, 사용자에게 친근하게 다가가며 현재 하고 있는 일을 물어보는 의미를 담고 있습니다. 이를 통해 사용자가 원하는 정보를 제공하고, 더 나은 사용자 경험을 제공하고자 합니다.
     </p>
 </div>
     

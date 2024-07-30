@@ -1,3 +1,17 @@
+<div align="center">
+    <div style="background-color: #2e2e2e; color: #ffffff; padding: 20px; font-family: Menlo, Monaco, 'Courier New', monospace; border-radius: 5px; width: 80%; max-width: 600px; margin: 0 auto; text-align: left;">
+        <div style="background-color: #1c1c1c; padding: 5px 10px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
+            <div style="display: flex; align-items: center;">
+                <div style="width: 12px; height: 12px; background-color: #ff5f56; border-radius: 50%; margin-right: 8px;"></div>
+                <div style="width: 12px; height: 12px; background-color: #ffbd2e; border-radius: 50%; margin-right: 8px;"></div>
+                <div style="width: 12px; height: 12px; background-color: #27c93f; border-radius: 50%;"></div>
+            </div>
+        </div>
+        <p style="margin: 10px 0 0 0;">Last login: Wed Jul 3 15:34:59 on ttys004</p>
+        <p style="margin: 10px 0;">air4sss ~ % <span style="color: #00ff00;">echo "Hello, air4sss"</span></p>
+        <p style="margin-left: 20px;">Hello, air4sss</p>
+    </div>
+</div>
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=user.getName()%20=%20air4sss&animation=twinkling&fontColor=000000&fontSize=40" />
     </div>

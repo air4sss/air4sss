@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> What is WRYD? </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙄 What is WRYD? </h2>
     <div style="display: flex; align-items: center; justify-content: center;">
         <img src="https://github.com/air4sss/wryd_movie/blob/main/logo_rmbg.jpg" alt="WRYD Logo" style="margin-right: 20px;" />
         <p>

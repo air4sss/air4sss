@@ -1,11 +1,11 @@
-<div align= "center">
+<div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=user.getName()%20=%20air4sss&animation=twinkling&fontColor=000000&fontSize=40" />
     </div>
-    <div align= "center"> 
+    <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -30,7 +30,7 @@
           <br/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           </div>
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/air4sss/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/air4sss/"> </a>
          <a href=mailto:jungwoo39393@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jungwoo39393@gmail.com"> </a>
@@ -56,7 +56,7 @@
     </p>
 </div>
 
-<div align="center">
+<div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙄 What is WRYD? </h2>
     <div style="display: flex; align-items: center; justify-content: center;">
         <img src="https://github.com/air4sss/wryd_movie/blob/main/logo_rmbg.jpg" alt="WRYD Logo" style="margin-right: 20px;" />

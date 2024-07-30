@@ -44,5 +44,8 @@
     <a href="https://github.com/air4sss/wryd_movie/blob/main/README.md">
         <img src="https://img.shields.io/badge/wryd_movie-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
     </a>
+    <p>
+        WRYD MOVIE는 사용자들이 쉽게 영화를 검색하고, 각 개인의 선호도를 기반으로 맞춤형 영화 추천을 받을 수 있는 직관적이고 효율적인 웹 애플리케이션입니다.
+    </p>
 </div>
     

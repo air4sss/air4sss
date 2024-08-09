@@ -60,22 +60,15 @@ me.say_hi()
 <a href="https://github.com/air4sss/wryd_movie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=air4sss&repo=wryd_movie&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="wryd_travel" />
 </a>
-
-<div align="left">
-    <a href="https://github.com/air4sss/wryd_movie/blob/main/README.md">
-        <img src="https://img.shields.io/badge/wryd_movie-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
-    </a>
-    <p>
+<p>
         WRYD MOVIE는 사용자들이 쉽게 영화를 검색하고, 각 개인의 선호도를 기반으로 맞춤형 영화 추천을 받을 수 있는 직관적이고 효율적인 웹 애플리케이션입니다.
-    </p>
-    <br>
-    <a href="https://github.com/air4sss/wryd_travel/blob/main/README.md">
-        <img src="https://img.shields.io/badge/wryd_travel-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
-    </a>
-    <p>
-        WRYD TRAVEL은 사용자가 자신만의 여행 기록 지도를 꾸밀 수 있는 웹 애플리케이션으로, 방문한 여행지를 사진으로 기록하고 저장하며 개인화된 지도를 통해 추억을 시각적으로 보존할 수 있습니다.
-    </p>
-</div>
+</p>
+
+<a href="https://github.com/air4sss/wryd_travel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=air4sss&repo=wryd_travel&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="wryd_travel" />
+<p>
+    WRYD TRAVEL은 사용자가 자신만의 여행 기록 지도를 꾸밀 수 있는 웹 애플리케이션으로, 방문한 여행지를 사진으로 기록하고 저장하며 개인화된 지도를 통해 추억을 시각적으로 보존할 수 있습니다.
+</p>
 
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙄 What is WRYD? </h2>

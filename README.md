@@ -23,11 +23,13 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
-**Programming Languages:**
+**Programming Languages :**
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=6aa6f8)
+![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=6aa6f8)
 
 <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  

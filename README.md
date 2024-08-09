@@ -70,15 +70,11 @@ me.say_hi()
     WRYD TRAVEL은 사용자가 자신만의 여행 기록 지도를 꾸밀 수 있는 웹 애플리케이션으로, 방문한 여행지를 사진으로 기록하고 저장하며 개인화된 지도를 통해 추억을 시각적으로 보존할 수 있습니다.
 </p>
 
-<div align="left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙄 What is WRYD? </h2>
-    <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://github.com/air4sss/wryd_movie/blob/main/logo_rmbg.jpg" alt="WRYD Logo" style="margin-right: 20px;" />
-        <p>
-            <strong>WRYD</strong>는 "What aRe You Doing?"의 약자로, 사용자에게 친근하게 다가가며 현재 하고 있는 일을 물어보는 의미를 담고 있습니다. 이를 통해 사용자가 원하는 정보를 제공하고, 더 나은 사용자 경험을 제공하고자 합니다.
-        </p>
-    </div>
-</div>
+## 🙄 What is WRYD?
+
+![WRYD Logo](https://github.com/air4sss/wryd_movie/blob/main/logo_rmbg.jpg)
+
+**WRYD**는 "What aRe You Doing?"의 약자로, 사용자에게 친근하게 다가가며 현재 하고 있는 일을 물어보는 의미를 담고 있습니다. 이를 통해 사용자가 원하는 정보를 제공하고, 더 나은 사용자 경험을 제공하고자 합니다.
 
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -87,4 +83,9 @@ me.say_hi()
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+
+## 🧑‍💻 Contact Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/air4sss/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jungwoo39393@gmail.com)
     

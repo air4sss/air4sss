@@ -31,7 +31,7 @@ me.say_hi()
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=6aa6f8)
 ![JavaScript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=6aa6f8)
 
-** Frameworks & Libraries :**
+**Frameworks & Libraries :**
 
 ![Spring](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=6aa6f8)
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=Spring%20Boot&logoColor=white&color=6aa6f8)
@@ -41,6 +41,20 @@ me.say_hi()
 ![jQuery](https://img.shields.io/badge/Library-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=6aa6f8)
 ![Android](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=Android&logoColor=white&color=6aa6f8)
 
+**Databases & Tools :**
+
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
+![MariaDB](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=003545)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
+
+**Other Tools :**
+
+![Notion](https://img.shields.io/badge/Tool-Notion-informational?style=flat&logo=Notion&logoColor=white&color=000000)
+![Slack](https://img.shields.io/badge/Tool-Slack-informational?style=flat&logo=Slack&logoColor=white&color=4A154B)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=Github&logoColor=white&color=181717)
+![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+![Figma](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=F24E1E)
+
 
 <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -49,23 +63,6 @@ me.say_hi()
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <div style="margin: 0 auto; text-align: center;" align="left"> 
-
-  ### 프로그래밍 언어
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-
-  ### 프레임워크 및 라이브러리
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
 
   ### 데이터베이스 및 툴

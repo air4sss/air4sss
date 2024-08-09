@@ -62,6 +62,10 @@ me.say_hi()
 </a>
 <p>
         WRYD MOVIE는 사용자들이 쉽게 영화를 검색하고, 각 개인의 선호도를 기반으로 맞춤형 영화 추천을 받을 수 있는 직관적이고 효율적인 웹 애플리케이션입니다.
+    <br>
+    <a href="[https://www.figma.com/your-figma-link](https://www.figma.com/proto/cE301JyFV9TMe70OFZq96A/Wireframe?node-id=10-1391&t=i1KRaJX7Q5vgMXrC-1)" target="_blank">
+        ![View on Figma](https://img.shields.io/badge/View%20on-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
+    </a>
 </p>
 
 <a href="https://github.com/air4sss/wryd_travel">

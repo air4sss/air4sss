@@ -33,13 +33,13 @@ me.say_hi()
 
 ** Frameworks & Libraries :**
 
-![Spring](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=6aa6f8)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Spring](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=6aa6f8)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=Spring%20Boot&logoColor=white&color=6aa6f8)
+![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=6aa6f8)
+![Selenium](https://img.shields.io/badge/Library-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=6aa6f8)
+![Tensorflow](https://img.shields.io/badge/Library-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=6aa6f8)
+![jQuery](https://img.shields.io/badge/Library-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=6aa6f8)
+![Android](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=Android&logoColor=white&color=6aa6f8)
 
 
 <div align= "left"> 

@@ -1,7 +1,7 @@
+# Hello there 👋
 
-<div align= "left">
-    <img src="https://github.com/air4sss/air4sss/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-07-30%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.15.18.png" />
-    </div>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=air4sss)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
     <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 

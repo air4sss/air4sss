@@ -66,6 +66,7 @@ me.say_hi()
 
 <a href="https://github.com/air4sss/wryd_travel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=air4sss&repo=wryd_travel&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="wryd_travel" />
+</a>
 <p>
     WRYD TRAVEL은 사용자가 자신만의 여행 기록 지도를 꾸밀 수 있는 웹 애플리케이션으로, 방문한 여행지를 사진으로 기록하고 저장하며 개인화된 지도를 통해 추억을 시각적으로 보존할 수 있습니다.
 </p>

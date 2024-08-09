@@ -65,7 +65,11 @@ me.say_hi()
     <div align= "center">  </div> 
     </div>
 
-## 📂 My Projects
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=air4sss&repo=wryd_movie&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="wryd_travel" />
+</a>
 
 <div align="left">
     <a href="https://github.com/air4sss/wryd_movie/blob/main/README.md">

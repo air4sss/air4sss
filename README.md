@@ -55,6 +55,10 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![Figma](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=F24E1E)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=air4sss&theme=nord&column=7)](https://github.com/air4sss/github-profile-trophy)
+
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/air4sss/wryd_movie">

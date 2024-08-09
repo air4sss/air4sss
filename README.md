@@ -2,7 +2,25 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=air4sss.air4sss)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-    <div align= "left"> 
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "air4sss"
+        self.role = "Software Engineer"
+        self.language_spoken = ["ko_KR", "en_US"]
+
+    def say_hi(self):
+        print("방문해주셔서 감사합니다. 제 포트폴리오가 흥미로웠으면 좋겠습니다 😄")
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+<div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>

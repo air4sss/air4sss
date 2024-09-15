@@ -82,5 +82,4 @@ me.say_hi()
 
 ## 🧑‍💻 Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/air4sss/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jungwoo39393@gmail.com)

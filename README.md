@@ -15,7 +15,7 @@ class SoftwareEngineer:
         self.language_spoken = ["ko_KR", "en_US"]
 
     def say_hi(self):
-        print("방문해주셔서 감사합니다. 제 포트폴리오가 흥미로웠으면 좋겠습니다 😄")
+        print("방문해주셔서 감사합니다.")
 
 me = SoftwareEngineer()
 me.say_hi()
